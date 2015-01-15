@@ -15,4 +15,9 @@ CloudNet 2014
 Generation](http://cseweb.ucsd.edu/~kvishwanath/papers/swington.pdf),
 Transactions on Networking 2009
 
-[Meeting Calendar](https://www.google.com/calendar/embed?src=flowgrammable.com_bgcgtkj4at0mqq8h9q0q1ql69c%40group.calendar.google.com&ctz=America/New_York)
+## Suggested Readings
+...
+
+###[Meeting Calendar](https://www.google.com/calendar/embed?src=flowgrammable.com_bgcgtkj4at0mqq8h9q0q1ql69c%40group.calendar.google.com&ctz=America/New_York)
+
+## Archived Readings
