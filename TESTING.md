@@ -9,3 +9,8 @@ CloudNet 2014
 Generation](http://cseweb.ucsd.edu/~kvishwanath/papers/swington.pdf),
 Transactions on Networking 2009
 
+## Papers to Consider
+
+* [Jethro's expert wall wart placement method](www.flowgrammable.com)
+* [Mindy's mind altering magnetar machine](flowsim.flowgrammable.com)
+
