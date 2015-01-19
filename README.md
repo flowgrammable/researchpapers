@@ -25,19 +25,50 @@ Transactions on Networking 2009
 
 ## Conferences
 
+The following are a list of venues where work related to Flowgrammable's
+research interest and activities are published. There are currently three 
+categories: Networking, Programming Languages, and Software Engineering.
+
 ### Networking
-* [SIGCOMM](http://www.sigcomm.org/)
-* [HotSDN](about:blank)
-* ...
+* [ACM SIGCOMM](http://www.sigcomm.org/)
+  * [SIGCOMM'14](http://conferences.sigcomm.org/sigcomm/2014/)
+  * [SIGCOMM'15](http://conferences.sigcomm.org/sigcomm/2015/)
+* ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (HotSDN) -- A SIGCOMM workshop
+  * [HotSDN'13](http://conferences.sigcomm.org/sigcomm/2013/hotsdn.php)
+  * [HotSDN'14](http://conferences.sigcomm.org/sigcomm/2014/hotsdn.php)
+* [IEEE International Conference on Network Protocols (ICNP)](http://www.ieee-icnp.org/)
+  * [ICNP'14](http://icnp14.cs.unc.edu/workshops.html)
+* Control Operation and Application in SDN Protocols (CoolSDN) -- An ICNP workshop
+  * [CoolSDN'14](http://success.cse.tamu.edu/CoolSDN2014/)
+* (USENIX Symposium on Networked System Design and Implementation)[https://www.usenix.org/conference/nsdi15]
 
 ### Programming languages
 
+* [ACM SIGPLAN-SIGACT Principles of Programming Languages (POPL)](http://www.sigplan.org/Conferences/POPL/)
+  * [POPL'14](http://popl.mpi-sws.org/2014/)
+  * [POPL'15](http://popl.mpi-sws.org/2015/)
+* [International Conference on Software Language Engineering (SLE)](http://www.sleconf.org/)
+  * [SLE'14](http://www.sleconf.org/2014/)
+  * [SEL'15](http://www.sleconf.org/2015/)
+
 ### Software engineering
 
-* VISSOFT -- Working conference on Software Visualization
+* [IEEE International Conference on Software Engineering (ICSE)](http://www.icse-conferences.org/)
+  * [ICSE'15](http://2015.icse-conferences.org/)
+* [IEEE International Conference on Software Maintenance (ICSM)](http://conferences.computer.org/icsm/)
+  * [ICSM'15](http://www.icsme.uni-bremen.de/)
+* IEEE International Conference on Software Testing (ICST)
+  * [ICST'15](http://icst2015.ist.tu-graz.ac.at/)
+* IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  * [ASE'14](http://ase2014.org/)
+  * [ASE'15](http://ase2015.unl.edu/)
+* Working conference on Software Visualization (VISSOFT)
   * [VISSOFT'15](http://vissoft.dcc.uchile.cl/)
-
 
 ## Journals
 
-* ...
+* [IEEE/ACM Transactions on Networking](http://www.ifp.illinois.edu/ton/index.html)
+* [Computer Communications Review](http://www.sigcomm.org/publications/computer-communication-review)
+* ACM Transactions on Computer Systems
+* ACM Transactions on Software Engineering and Methodology
+* IEEE Transactions on Software Engineering
