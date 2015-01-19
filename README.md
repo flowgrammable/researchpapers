@@ -22,3 +22,13 @@ Transactions on Networking 2009
 
 ## Archived Readings
 ...
+
+## Conferences
+
+* [SIGCOMM](http://www.sigcomm.org/)
+* [HotSDN](about:blank)
+* ...
+
+## Journals
+
+* ...
