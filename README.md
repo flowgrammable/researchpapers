@@ -9,19 +9,21 @@ suggested readings to our list.
 ###[Meeting Calendar](https://www.google.com/calendar/embed?src=flowgrammable.com_bgcgtkj4at0mqq8h9q0q1ql69c%40group.calendar.google.com&ctz=America/New_York)
 
 ## Current Readings
+* [Benchmarking Methodology for LAN Switching Devices](https://www.ietf.org/rfc/rfc2889.txt), Spirent Communications 2000
+* [Performance Characteristics of Virtual Switching](http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/Open-vSwitch-CloudNet-14.pdf), CloudNet 2014
 
+
+
+## Suggested Readings
+...
+
+## Archived Readings
 * [Performance Characteristics of Virtual
 Switching](http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/Open-vSwitch-CloudNet-14.pdf), 
 CloudNet 2014
 * [Swing: Realistic and Responsive Network Traffic
 Generation](http://cseweb.ucsd.edu/~kvishwanath/papers/swington.pdf),
 Transactions on Networking 2009
-
-## Suggested Readings
-...
-
-## Archived Readings
-...
 
 ## Conferences
 
