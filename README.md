@@ -35,6 +35,9 @@ categories: Networking, Programming Languages, and Software Engineering.
 * ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (HotSDN) -- A SIGCOMM workshop
   * [HotSDN'13](http://conferences.sigcomm.org/sigcomm/2013/hotsdn.php)
   * [HotSDN'14](http://conferences.sigcomm.org/sigcomm/2014/hotsdn.php)
+* [ONS](http://www.opennetsummit.org/)
+  * ACM SIGCOMM Symposium on SDN Research (SOSR)
+    * [SOSR'15](http://www.opennetsummit.org/sosr15.php)
 * [IEEE International Conference on Network Protocols (ICNP)](http://www.ieee-icnp.org/)
   * [ICNP'14](http://icnp14.cs.unc.edu/workshops.html)
 * Control Operation and Application in SDN Protocols (CoolSDN) -- An ICNP workshop
