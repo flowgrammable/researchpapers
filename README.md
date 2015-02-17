@@ -15,7 +15,10 @@ suggested readings to our list.
 
 
 ## Suggested Readings
-...
+* [Comparison of SDN OpenFlow Network Simulator and Emulators: EstiNet vs. Mininet](http://www.estinet.com/fckimages/14117014621397232509.pdf), IEEE ISCC 2014
+* [EstiNet OpenFlow Network Simulator and Emulator](http://www.estinet.com/fckimages/1411701431891112745.pdf), IEEE Communications Magazine - September 2013 
+* [Comparisons of SDN OpenFlow Controllers over EstiNet: Ryu vs. NOX](http://www.estinet.com/fckimages/1423026016445720673.pdf), The International Symposium on Advances in Software Defined Networks
+* [Simulation Studies of OpenFlow-Based In-Network Caching Strategies](https://www.primessf.net/pub/Public/WebHome/FINAL.pdf),
 
 ## Archived Readings
 * [Swing: Realistic and Responsive Network Traffic
