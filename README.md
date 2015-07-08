@@ -11,8 +11,7 @@ suggested readings to our list.
 
 
 ## Current Readings
-* [DC.p4: Programming the Forwarding Plane of a
-Data-Center Switch](http://web.mit.edu/anirudh/www/sosr-dc-p4.pdf), ACM SOSR 2015
+* [The case for an Intermediate Representation for Programmable Data Planes](http://www.cs.princeton.edu/~mshahbaz/papers/sosr15-netasm.pdf), ACM SOSR 2015
 
 
 ## Suggested Readings
@@ -23,6 +22,7 @@ Data-Center Switch](http://web.mit.edu/anirudh/www/sosr-dc-p4.pdf), ACM SOSR 201
 
 
 ## Archived Readings
+* [DC.p4: Programming the Forwarding Plane of a Data-Center Switch](http://web.mit.edu/anirudh/www/sosr-dc-p4.pdf), ACM SOSR 2015
 * [Benchmarking Methodology for LAN Switching Devices](https://www.ietf.org/rfc/rfc2889.txt), Spirent Communications 2000
 * [Performance Characteristics of Virtual Switching](http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/Open-vSwitch-CloudNet-14.pdf), CloudNet 2014
 * [Swing: Realistic and Responsive Network Traffic
