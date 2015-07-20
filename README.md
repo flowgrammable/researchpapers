@@ -48,8 +48,10 @@ categories: Networking, Programming Languages, and Software Engineering.
   * ACM SIGCOMM Symposium on SDN Research (SOSR)
     * [SOSR'15](http://www.opennetsummit.org/sosr15.php)
 * [IEEE International Conference on Network Protocols (ICNP)](http://www.ieee-icnp.org/)
+  * [ICNP'15](http://icnp15.cs.ucr.edu/index.html)
   * [ICNP'14](http://icnp14.cs.unc.edu/workshops.html)
 * Control Operation and Application in SDN Protocols (CoolSDN) -- An ICNP workshop
+  * [CoolSDN'15](http://success.cse.tamu.edu/CoolSDN2015/)
   * [CoolSDN'14](http://success.cse.tamu.edu/CoolSDN2014/)
 * (USENIX Symposium on Networked System Design and Implementation)[https://www.usenix.org/conference/nsdi15]
 
