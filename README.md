@@ -11,7 +11,7 @@ suggested readings to our list.
 
 
 ## Current Readings
-* [Heterogeneous System Architecture (HSA)](http://www.hsafoundation.com/html/HSA_Library.htm), HSA Foundation 2015
+* [Heterogeneous System Architecture (HSA) Specification](http://www.hsafoundation.com/html/HSA_Library.htm), HSA Foundation 2015
 
 
 ## Suggested Readings
