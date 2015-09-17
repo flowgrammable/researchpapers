@@ -11,10 +11,12 @@ suggested readings to our list.
 
 
 ## Current Readings
-* [The case for an Intermediate Representation for Programmable Data Planes](http://www.cs.princeton.edu/~mshahbaz/papers/sosr15-netasm.pdf), ACM SOSR 2015
+* [Heterogeneous System Architecture (HSA)](http://www.hsafoundation.com/html/HSA_Library.htm), HSA Foundation 2015
 
 
 ## Suggested Readings
+* [Xilinx SDAccel: A Unified Development Environment for Tomorrow’s Data Center](http://www.xilinx.com/publications/prod_mktg/sdx/sdaccel-wp.pdf), The Linley Group 2014
+* [Implementing FPGA Design with the OpenCL Standard](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/wp/wp-01173-opencl.pdf), Altera Corporation 2013
 * [Comparison of SDN OpenFlow Network Simulator and Emulators: EstiNet vs. Mininet](http://www.estinet.com/fckimages/14117014621397232509.pdf), IEEE ISCC 2014
 * [EstiNet OpenFlow Network Simulator and Emulator](http://www.estinet.com/fckimages/1411701431891112745.pdf), IEEE Communications Magazine - September 2013 
 * [Comparisons of SDN OpenFlow Controllers over EstiNet: Ryu vs. NOX](http://www.estinet.com/fckimages/1423026016445720673.pdf), The International Symposium on Advances in Software Defined Networks
@@ -22,6 +24,7 @@ suggested readings to our list.
 
 
 ## Archived Readings
+* [The case for an Intermediate Representation for Programmable Data Planes](http://www.cs.princeton.edu/~mshahbaz/papers/sosr15-netasm.pdf), ACM SOSR 2015
 * [DC.p4: Programming the Forwarding Plane of a Data-Center Switch](http://web.mit.edu/anirudh/www/sosr-dc-p4.pdf), ACM SOSR 2015
 * [Benchmarking Methodology for LAN Switching Devices](https://www.ietf.org/rfc/rfc2889.txt), Spirent Communications 2000
 * [Performance Characteristics of Virtual Switching](http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/Open-vSwitch-CloudNet-14.pdf), CloudNet 2014
