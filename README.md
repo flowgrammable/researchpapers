@@ -11,10 +11,10 @@ suggested readings to our list.
 
 
 ## Current Readings
-* [Heterogeneous System Architecture (HSA) Specification](http://www.hsafoundation.com/html/HSA_Library.htm), HSA Foundation 2015
-
+* [NetKAT - Semantic Foundations for Networks](http://www.cs.cornell.edu/~jnfoster/papers/frenetic-netkat.pdf), POPL 2014
 
 ## Suggested Readings
+* [SoftNIC: A Software NIC to Augment Hardware](http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-155.pdf), EECS University of California at Berkeley 2015
 * [Xilinx SDAccel: A Unified Development Environment for Tomorrow’s Data Center](http://www.xilinx.com/publications/prod_mktg/sdx/sdaccel-wp.pdf), The Linley Group 2014
 * [Implementing FPGA Design with the OpenCL Standard](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/wp/wp-01173-opencl.pdf), Altera Corporation 2013
 * [Comparison of SDN OpenFlow Network Simulator and Emulators: EstiNet vs. Mininet](http://www.estinet.com/fckimages/14117014621397232509.pdf), IEEE ISCC 2014
@@ -24,6 +24,7 @@ suggested readings to our list.
 
 
 ## Archived Readings
+* [Heterogeneous System Architecture (HSA) Specification](http://www.hsafoundation.com/html/HSA_Library.htm), HSA Foundation 2015
 * [The case for an Intermediate Representation for Programmable Data Planes](http://www.cs.princeton.edu/~mshahbaz/papers/sosr15-netasm.pdf), ACM SOSR 2015
 * [DC.p4: Programming the Forwarding Plane of a Data-Center Switch](http://web.mit.edu/anirudh/www/sosr-dc-p4.pdf), ACM SOSR 2015
 * [Benchmarking Methodology for LAN Switching Devices](https://www.ietf.org/rfc/rfc2889.txt), Spirent Communications 2000
@@ -49,6 +50,7 @@ categories: Networking, Programming Languages, and Software Engineering.
   * [HotSDN'14](http://conferences.sigcomm.org/sigcomm/2014/hotsdn.php)
 * ACM SIGCOMM Symposium on SDN Research (SOSR)
   * [SOSR'15](http://www.opennetsummit.org/sosr15.php)
+  * [SOSR'16](http://conferences.sigcomm.org/sosr/2016/index.html)
 * [Open Networking Summit (ONS)](http://www.opennetsummit.org/)
 * [IEEE International Conference on Network Protocols (ICNP)](http://www.ieee-icnp.org/)
   * [ICNP'14](http://icnp14.cs.unc.edu/workshops.html)
